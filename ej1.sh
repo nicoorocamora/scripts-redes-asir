@@ -2,4 +2,5 @@
 directorio="$1"
 opcion="$2"
 
-if ()
+if [ "$direcorio" && "$opcion" = "-a" ]; then
+# Hola como estas esto es un comentario	
