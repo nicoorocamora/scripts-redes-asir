@@ -1,5 +1,4 @@
-#!/bin/bash 
-# Modificado desde Github
+#!/bin/bash
 fichero="$1"
 opcion="$2"
 
