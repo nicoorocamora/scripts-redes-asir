@@ -1,4 +1,5 @@
-#!/bin/bash 
+#!/bin/bash
+# Modificado en mi entorno local 
 fichero="$1"
 opcion="$2"
 
